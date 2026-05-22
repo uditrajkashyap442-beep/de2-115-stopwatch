@@ -2,7 +2,6 @@
 
 **Name:** Udit Raj Kashyap
 **Registration Number:** 24BEC0668
-**Submitted to:** Vishal Gupta
 
 ## 1. Problem Identification
 
